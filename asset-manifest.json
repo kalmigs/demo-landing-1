@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/demo-landing-1/static/css/main.f896f419.css",
-    "main.js": "/demo-landing-1/static/js/main.000dc47b.js",
+    "main.js": "/demo-landing-1/static/js/main.36925e49.js",
     "static/js/27.38f61608.chunk.js": "/demo-landing-1/static/js/27.38f61608.chunk.js",
     "static/media/orange-tree.png": "/demo-landing-1/static/media/orange-tree.f32cd8bfa273875a4a16.png",
     "static/media/mobile-slant.png": "/demo-landing-1/static/media/mobile-slant.7ca8be7b96be0c87dac9.png",
     "static/media/usp-3.png": "/demo-landing-1/static/media/usp-3.34cf08823d8a203cdca1.png",
     "static/media/usp-2.png": "/demo-landing-1/static/media/usp-2.ffe04b9e6d06a5d67949.png",
     "static/media/usp-1.png": "/demo-landing-1/static/media/usp-1.115f6e3837bb71d63a70.png",
-    "index.html": "/demo-landing-1/index.html"
+    "index.html": "/demo-landing-1/index.html",
+    "static/media/quotes.svg": "/demo-landing-1/static/media/quotes.9a660da0d5dfb03d46494edaccc9ac04.svg",
+    "static/media/quotes-sm-orange.svg": "/demo-landing-1/static/media/quotes-sm-orange.3e3ae2d066fe01584a1c64bfe8f0061d.svg",
+    "static/media/quotes-sm-white.svg": "/demo-landing-1/static/media/quotes-sm-white.dedc830d1e05cd85747788a8938a35df.svg"
   },
   "entrypoints": [
     "static/css/main.f896f419.css",
-    "static/js/main.000dc47b.js"
+    "static/js/main.36925e49.js"
   ]
 }
