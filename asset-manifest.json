@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demo-landing-1/static/css/main.f896f419.css",
-    "main.js": "/demo-landing-1/static/js/main.0844950b.js",
+    "main.js": "/demo-landing-1/static/js/main.f9735f1e.js",
     "static/js/27.38f61608.chunk.js": "/demo-landing-1/static/js/27.38f61608.chunk.js",
     "static/media/orange-tree.png": "/demo-landing-1/static/media/orange-tree.f32cd8bfa273875a4a16.png",
     "static/media/mobile-slant.png": "/demo-landing-1/static/media/mobile-slant.7ca8be7b96be0c87dac9.png",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.f896f419.css",
-    "static/js/main.0844950b.js"
+    "static/js/main.f9735f1e.js"
   ]
 }
